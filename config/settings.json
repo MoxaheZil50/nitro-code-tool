@@ -1,0 +1,26 @@
+{
+  "module": "nitro-code-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "gen": {
+      "enabled": true
+    },
+    "checker": {
+      "enabled": true
+    },
+    "proxies": {
+      "enabled": true
+    },
+    "stats": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
