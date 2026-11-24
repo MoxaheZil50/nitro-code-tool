@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="banner.svg" alt="nitro-code-tool" width="840" />
-
 # NitroCodeTool — Concurrent Nitro Gift Code Generator with Proxy Rotation and Live Checker (One-Command Setup, Prebuilt Release)
 
 <p><strong>NitroCodeTool — Concurrent Nitro Gift Code Generator with Proxy Rotation and Live Checker (One-Command Setup, Prebuilt Release): Generate and check Nitro codes at scale. Native 64-bit portable build with hot-reloadable JSON configuration, low-overhead runtime, and prebuilt portable release.</strong></p>
